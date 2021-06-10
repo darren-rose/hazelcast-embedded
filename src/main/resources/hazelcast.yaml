@@ -1,0 +1,6 @@
+hazelcast:
+  cluster-name: changme
+  network:
+    join:
+      multicast:
+        enabled: true
